@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Classic Therapy Patient Record",
+  "description": "A digital patient record system for Classic Therapy Akupunktur based on the provided physical form, using Date of Birth for input.",
+  "requestFramePermissions": []
+}
